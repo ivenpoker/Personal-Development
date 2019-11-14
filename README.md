@@ -43,7 +43,12 @@ engaged with a clear unerstanding of our purpose within the company.
 
 A second way to create a culture of personal development is to find ways to put the strategic vision into action. Once we've mapped out a plan (as a team), the next step is putting it into action. Study has shown that career development improves how employees view their future at an organization, 43% of employees says they'd remain with their employeer because of development opportunities; of those without it, only 7% felt the same way. One of the effective ways I've found, is to provide necessary resources and training (access to course that'll help us beta-testers be more effective at our work) that'll make us more effective. Provision of autonomy, resources and tools to grow (like courses to learn etc) is vital for Personal Development.
 
-## Create Vision Check-Ins
+## Having Vision Check-Ins
 
 Third way will be to do regular check-ups on each employee (@Adipster) personal development (skillset is focus the here). Knowing how far we're going on our personal development plan, which could be seen through tracking course we're taking to build skill set, contributions to opensource projects (likely ours), number of shots on project, even some of personal projects (employee will have to give choose on this, if he/she will). Having regular meetings (or talks) on personal development, will keep employees focuced and concious of goals and expectations.
+
+# [Plan]([1])
+
+Propose plan here is rather subjective than factual or it being 'best'.
+
 
