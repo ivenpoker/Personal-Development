@@ -12,7 +12,7 @@ As New York Times best-selling author, John C. Maxwell once wrote:
 
 # Personal Development Strategy
 
-As far as personal development is concerned, it'll be addressed from these three sections. 
+As far as personal development is concerned, it'll be addressed from these three angles. 
 * Vision
     - [Creating a vision](1)
     - [Putting vision into action]()
@@ -45,4 +45,5 @@ A second way to create a culture of personal development is to find ways to put 
 
 ## Create Vision Check-Ins
 
-Third way will be to do regular check-ups on each employee (@Adipster) personal development (skillset is focus here)
+Third way will be to do regular check-ups on each employee (@Adipster) personal development (skillset is focus the here). Knowing how far we're going on our personal development plan, which could be seen through tracking course we're taking to build skill set, contributions to opensource projects (likely ours), number of shots on project, even some of personal projects (employee will have to give choose on this, if he/she will). Having regular meetings (or talks) on personal development, will keep employees focuced and concious of goals and expectations.
+
