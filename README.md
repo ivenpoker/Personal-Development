@@ -18,7 +18,16 @@ As far as personal development is concerned, it'll be addressed from these three
     - [Putting vision into action]()
     - [Having vision checkins]()
 * Plan
-    - 
+    - [Define our goals](1)
+    - [Prioritize](1)
+    - [Set a deadline](1)
+    - [Understand our strengths](1)
+    - [Recognize opportunities and threats](1)
+    - [Develop new skills](1)
+    - [Take action](1)
+    - [Get support](1)
+    - [Measure progress](1)
+    
 * Motivation
 
 # [Vision]([1])
@@ -50,5 +59,6 @@ Third way will be to do regular check-ups on each employee (@Adipster) personal 
 # [Plan]([1])
 
 Propose plan here is rather subjective than factual or it being 'best'.
+
 
 
