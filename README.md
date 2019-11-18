@@ -89,6 +89,7 @@ from the colleague and how to better assign tasks and reponsibilities with activ
 Again we're beta-testers, new technologies pop-up here and there, we've got to be up to date with latest technology
 trends and skills. This will increase our productive not just from work view point but also as we pursue our own personal goals and plans. This can also be a great way to update our CV, resumes and LinkedIn profiles.
 
+
 ## Take Action
 
 Now that everything has written down (hopefully) and a deadline is set, it's time to take some action in achieving the goals. If we're going to achieve a big goal, there will be many actions we'll need to take. 
@@ -102,6 +103,6 @@ We're human beings and we're not omnipotent nor omniscient. Along this journey w
 The best motivator to stay persistent in achieving goals is your own progress. Even if it is a little progress, it still something. It is important to recognize that you're moving forward and to write down things that you're doing well. This is were the leaders on the team can really be of great impact. There should be an overall progress measurement metric, this could be, number of objectives met, how long objectives were met etc. The whole point is 
 we'll need to measure how far we've come and how far we'll need to go.
 
+# Proposed method for Achievement
 
-
-
+In order to develop ourselves (both in IT and in our personal endeavours), working on a **group project** will definitely propel our development. This project in question could rang from *static web application*, *dynamic web application*, *desktop application* or even *core system application*. The main point of interest here is that, **the skills use to accomplish project should encompass every sofware engineer @Adipster exploitable skillset**. These project should be well plan and tailored to make each individual enhance his/her skillset.
